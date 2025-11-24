@@ -19,12 +19,7 @@ const DEFAULT_HERO = {
   heroImageUrl:
     'https://images.unsplash.com/photo-1449824913935-59a10b8d2000?q=80&w=1200&auto=format&fit=crop',
   heroImageAlt: 'Flotte moderne de véhicules de location',
-  features: [
-    'Disponible 24h/7j',
-    'Assurance incluse',
-    'Kilométrage illimité',
-    'Assistance routière',
-  ],
+  features: ['Disponible 24h/7j', 'Assurance incluse', 'Kilométrage illimité', 'Assistance routière', 'xccxw'],
   stats: [
     { label: 'Véhicules disponibles', value: '500+' },
     { label: 'Clients satisfaits', value: '10K+' },
