@@ -9,7 +9,7 @@ import { useState, useEffect } from 'react';
 import { useSmartNavigation } from '@/hooks/useSmartNavigation';
 
 const DEFAULT_HERO = {
-  title: 'Louez votre véhicule idéal en quelques clics',
+  title: 'Tester votre véhicule idéal en quelques clics',
   subtitle:
     'AutoLocation Pro vous propose une flotte moderne et diversifiée pour tous vos déplacements professionnels et personnels. Réservation simple, tarifs transparents, service premium.',
   ctaText: 'Réserver maintenant',
